@@ -1,0 +1,1 @@
+# csci570-assignmnet-1-sequence-alignment-solved
